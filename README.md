@@ -15,5 +15,7 @@
 - `Figure_by_desy:`此文件夹存储`desy.py`生成的折线图
 
 
+## 补充：
+本人使用的开发环境为mac+vscode+py@3.9.13，有一些库如cupy，keras等这些库不支持，若你的开发环境支持这些库的话还可以进一步优化代码处理速度
 
 # 2024MachineLearningHomeworkCode
